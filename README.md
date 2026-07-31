@@ -14,4 +14,4 @@ I am currently a student who tries to build something meaningfull.
 
 
 
-https://raw.githubusercontent.com/vivekprajapati89/vivekprajapati89/output/snake-purple.svg
+https://raw.githubusercontent.com/vivekprajapati89/vivekprajapati89/vivekprajapati89-patch-1/snake-purple.svg
